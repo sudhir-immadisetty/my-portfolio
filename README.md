@@ -1,1 +1,1 @@
-Here is my portfolio - [Have a look](https://naga-sudhir-immadisetty-profile.netlify.app/)
+Here is my portfolio - [Have a look](https://naga-sudhir.netlify.app/)
