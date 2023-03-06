@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import Profileimg1 from ".././public/nagasudhirimage1.jpg";
+import Profileimg1 from ".././public/nagasudhirimage1.jpeg";
 import Link from "next/link";
 
 type Props = {};
