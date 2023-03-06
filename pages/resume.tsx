@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from "next/image";
-import Resume1 from "../../public/resume.jpg";
+import Resume1 from ".././public/resume.jpg";
 
 type Props = {}
 
